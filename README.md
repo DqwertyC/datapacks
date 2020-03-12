@@ -4,3 +4,7 @@ Each folder is it's own separate pack and can be placed in the "datapacks" folde
 
 **crouch_to_place**  
 This datapack will allow players to place blocks in midair while sneaking. If you want to limit the players that can use this ability, the main target selector is in scoreboard_check.mcfunction.
+
+
+# Feedback
+Please notify me if you find any bugs or errors, or if you have usability suggestions.
