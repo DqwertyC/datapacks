@@ -1,0 +1,3 @@
+execute anchored eyes positioned ^ ^ ^2.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #crouch_place:air run function crouch_place:create_void_block
+execute anchored eyes positioned ^ ^ ^3.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #crouch_place:air run function crouch_place:create_void_block
+execute anchored eyes positioned ^ ^ ^4.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #crouch_place:air run function crouch_place:create_void_block
