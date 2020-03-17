@@ -1,2 +1,0 @@
-summon minecraft:armor_stand ~ ~ ~ {Tags:["enders_reach_checker"],Small:1b,Invisible:1b}
-execute as @e[type=armor_stand,tag=enders_reach_checker,sort=nearest,limit=1] run function enders_reach:check_all_materials
