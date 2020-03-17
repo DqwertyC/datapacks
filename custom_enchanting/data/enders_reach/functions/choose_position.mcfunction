@@ -1,0 +1,3 @@
+execute anchored eyes positioned ^ ^ ^2.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #custom_enchanting:air run function enders_reach:create_void_block
+execute anchored eyes positioned ^ ^ ^3.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #custom_enchanting:air run function enders_reach:create_void_block
+execute anchored eyes positioned ^ ^ ^4.5 align xyz positioned ~.5 ~.5 ~.5 if block ~ ~ ~ #custom_enchanting:air run function enders_reach:create_void_block

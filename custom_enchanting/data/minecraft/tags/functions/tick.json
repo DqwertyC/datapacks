@@ -1,0 +1,6 @@
+{
+"values": [
+    "custom_enchanting:on_tick",
+    "enders_reach:on_tick"
+]
+}
