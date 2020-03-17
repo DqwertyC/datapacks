@@ -12,9 +12,9 @@ This datapack provides a method to create custom enchantments. Throw an XP Bottl
   
 Designed to allow other creators to add their own data packs. Will upload a tutorial on how to create one soon.  
 
-**enders_reach**
+**enders_reach**  
 *min version: 20w11a*  
-Uses the custom_enchanting datapack above to create armor that allows the wearer to place blocks in midair.
+Uses the custom_enchanting datapack above to create armor that allows the wearer to place blocks in midair. Any chestplate can be enchanted, and it costs 4 Eyes of Ender and 150 XP points (~1 level at level 30). When wearing, the player can crouch to see outlines of nearby air spaces, and other blocks can be placed there.
 
 # Feedback
 Please notify me if you find any bugs or errors, or if you have usability suggestions.
