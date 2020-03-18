@@ -10,7 +10,7 @@ This datapack will allow players to place blocks in midair while sneaking. If yo
 *min version: 20w11a*  
 This datapack provides a method to create custom enchantments. Throw an XP Bottle at an enchantment table, and it should activate. Place materials around the sides of the table and the item to enchant on top, then throw another XP Bottle at it.  
   
-Designed to allow other creators to add their own data packs. Will upload a tutorial on how to create one soon.  
+This datapack is designed to allow other creators to add their own custom enchantments, using the same crafting method. A brief tutorial can be found here: https://docs.google.com/document/d/1K5UTdAk9DKEXmSHS6XN9e-vWeH9s4dqGW9OkAt7rIwk/edit?usp=sharing
 
 **enders_reach**  
 *min version: 20w11a*  
