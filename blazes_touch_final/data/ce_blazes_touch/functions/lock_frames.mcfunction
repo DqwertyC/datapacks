@@ -9,7 +9,7 @@ data modify entity @e[type=item_frame,tag=enchanting_slot,nbt={Facing:5b},sort=n
 kill @e[type=experience_bottle,distance=..3]
 
 # Set the top slot to "charging" mode
-tag @e[type=item_frame,tag=enchanting_slot,nbt={Facing:1b},sort=nearest,limit=1] add enders_reach_charging
+tag @e[type=item_frame,tag=enchanting_slot,nbt={Facing:1b},sort=nearest,limit=1] add blazes_touch_charging
 
 # Play a sound to indicate the start of enchanting
 playsound entity.lightning_bolt.thunder block @p ~ ~ ~ 4 0.5
