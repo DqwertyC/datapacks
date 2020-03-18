@@ -1,0 +1,6 @@
+{
+"values": [
+    "ce_teleportation:on_tick",
+    "teleportation:on_tick"
+]
+}

@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity":"this",
+    "predicate":
+    {
+        "equipment":
+        {
+            "mainhand":
+            {
+                "tag":"ce_teleportation:can_enchant"
+            }
+        }
+    }
+}
