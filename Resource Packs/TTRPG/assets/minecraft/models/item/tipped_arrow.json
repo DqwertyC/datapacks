@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/tipped_arrow_head",
+    "layer1": "item/tipped_arrow_base"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 4 }, "model": "ttrpg:item/d4" },
+    { "predicate": { "custom_model_data": 6 }, "model": "ttrpg:item/d6" },
+    { "predicate": { "custom_model_data": 8 }, "model": "ttrpg:item/d8" },
+    { "predicate": { "custom_model_data": 10 }, "model": "ttrpg:item/d10" },
+    { "predicate": { "custom_model_data": 12 }, "model": "ttrpg:item/d12" }
+  ]
+}

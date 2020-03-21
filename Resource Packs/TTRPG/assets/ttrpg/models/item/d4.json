@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ttrpg:item/d4_color",
+    "layer1": "ttrpg:item/d4_base"
+  }
+}

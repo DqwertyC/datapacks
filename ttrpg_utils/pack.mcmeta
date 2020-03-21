@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 1,
+        "description": "Technical Datapack. Uses scoreboards to target entities based on UUID."
+    }
+}

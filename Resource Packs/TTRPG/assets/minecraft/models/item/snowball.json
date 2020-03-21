@@ -1,0 +1,15 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/snowball"
+    },
+	"overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/custom_red" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/custom_orange" },
+	{ "predicate": { "custom_model_data": 3 }, "model": "item/custom_yellow" },
+	{ "predicate": { "custom_model_data": 4 }, "model": "item/custom_lime" },
+	{ "predicate": { "custom_model_data": 5 }, "model": "item/custom_light_blue" },
+	{ "predicate": { "custom_model_data": 6 }, "model": "item/custom_magenta" },
+	{ "predicate": { "custom_model_data": 7 }, "model": "item/custom_hidden" }
+  ]
+}
