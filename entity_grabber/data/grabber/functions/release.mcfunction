@@ -1,4 +1,3 @@
-say Releasing!
 scoreboard players reset @s used_cos
 
 function uuid_utils:get_owned
