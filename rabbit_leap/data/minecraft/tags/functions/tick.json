@@ -1,0 +1,8 @@
+{
+"values": [
+    "ce_rabbit_leap_i:on_tick",
+	"ce_rabbit_leap_ii:on_tick",
+	"ce_rabbit_leap_iii:on_tick",
+	"rabbit_leap:on_tick"
+]
+}
