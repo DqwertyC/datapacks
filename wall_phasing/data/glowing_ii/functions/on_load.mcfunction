@@ -1,0 +1,1 @@
+scoreboard objectives add phase_sneak minecraft.custom:minecraft.sneak_time
