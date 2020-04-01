@@ -22,6 +22,14 @@ Uses the custom_enchanting datapack above to create armor that allows the wearer
 *min version: 20w12a*  
 Uses the custom_enchanting and uuid_utils datapacks above to create a trident that teleports the player to itself when it hits the ground or an entity. It costs 1 elytra, 2 ender pearls, and 1 Feather Falling IV book to enchant.
 
+**wall_phasing**  
+*min version:15.2*  
+A datapack that adds Potions of Intangibility (aka Glowing II). Players with Intangibility can sneak to walk through walls. Throw a blaze powder, a chorus plant, and awkward potions in a cauldron, place glowstone over the top, and shoot it with a spectral arrow to craft. Also works with redstone and or gunpowder to make extended potions and splash potions. Having Invisibilty with Glowing II will supress the glowing effect but still allow sneaking through walls.
+
+Requires wall_phasing_z.zip.
+Requires Cloud Wolf's Block Serializer: https://www.youtube.com/watch?v=_W_ojAgI9oY
+
+
 **blazes_touch_base**  
 *min version: 20w11a*  
 A simple loot-table based autosmelt datapack. Part of a tutorial on integrating datapacks with the custom_enchanting datapack.  
