@@ -1,0 +1,4 @@
+execute if score block bsc matches 7349 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sunflower",Properties:{half:"upper"}}}
+execute if score block bsc matches 7350 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sunflower",Properties:{half:"lower"}}}
+execute if score block bsc matches 7351 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:lilac",Properties:{half:"upper"}}}
+execute if score block bsc matches 7352 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:lilac",Properties:{half:"lower"}}}

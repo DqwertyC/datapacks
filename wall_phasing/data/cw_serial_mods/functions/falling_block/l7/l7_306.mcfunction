@@ -1,0 +1,9 @@
+execute if score block bsc matches 9104 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"1",waterlogged:"true"}}}
+execute if score block bsc matches 9105 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"1",waterlogged:"false"}}}
+execute if score block bsc matches 9106 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"2",waterlogged:"true"}}}
+execute if score block bsc matches 9107 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"2",waterlogged:"false"}}}
+execute if score block bsc matches 9108 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"3",waterlogged:"true"}}}
+execute if score block bsc matches 9109 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"3",waterlogged:"false"}}}
+execute if score block bsc matches 9110 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"4",waterlogged:"true"}}}
+execute if score block bsc matches 9111 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sea_pickle",Properties:{pickles:"4",waterlogged:"false"}}}
+execute if score block bsc matches 9112 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_ice"}}

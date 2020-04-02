@@ -1,0 +1,8 @@
+execute if score block bsc matches 7657 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_wall_banner",Properties:{facing:"north"}}}
+execute if score block bsc matches 7658 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_wall_banner",Properties:{facing:"south"}}}
+execute if score block bsc matches 7659 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_wall_banner",Properties:{facing:"west"}}}
+execute if score block bsc matches 7660 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_wall_banner",Properties:{facing:"east"}}}
+execute if score block bsc matches 7661 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_wall_banner",Properties:{facing:"north"}}}
+execute if score block bsc matches 7662 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_wall_banner",Properties:{facing:"south"}}}
+execute if score block bsc matches 7663 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_wall_banner",Properties:{facing:"west"}}}
+execute if score block bsc matches 7664 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_wall_banner",Properties:{facing:"east"}}}

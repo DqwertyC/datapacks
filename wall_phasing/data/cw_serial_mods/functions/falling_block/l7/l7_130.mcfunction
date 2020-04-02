@@ -1,0 +1,14 @@
+execute if score block bsc matches 5140 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_lamp",Properties:{lit:"true"}}}
+execute if score block bsc matches 5141 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_lamp",Properties:{lit:"false"}}}
+execute if score block bsc matches 5142 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"0",facing:"north"}}}
+execute if score block bsc matches 5143 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"0",facing:"south"}}}
+execute if score block bsc matches 5144 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"0",facing:"west"}}}
+execute if score block bsc matches 5145 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"0",facing:"east"}}}
+execute if score block bsc matches 5146 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"1",facing:"north"}}}
+execute if score block bsc matches 5147 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"1",facing:"south"}}}
+execute if score block bsc matches 5148 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"1",facing:"west"}}}
+execute if score block bsc matches 5149 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"1",facing:"east"}}}
+execute if score block bsc matches 5150 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"2",facing:"north"}}}
+execute if score block bsc matches 5151 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"2",facing:"south"}}}
+execute if score block bsc matches 5152 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"2",facing:"west"}}}
+execute if score block bsc matches 5153 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cocoa",Properties:{age:"2",facing:"east"}}}

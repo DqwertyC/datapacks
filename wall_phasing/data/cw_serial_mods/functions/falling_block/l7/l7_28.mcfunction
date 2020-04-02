@@ -1,0 +1,6 @@
+execute if score block bsc matches 132 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_wood",Properties:{axis:"x"}}}
+execute if score block bsc matches 133 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_wood",Properties:{axis:"y"}}}
+execute if score block bsc matches 134 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_wood",Properties:{axis:"z"}}}
+execute if score block bsc matches 135 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_wood",Properties:{axis:"x"}}}
+execute if score block bsc matches 136 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_wood",Properties:{axis:"y"}}}
+execute if score block bsc matches 137 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_wood",Properties:{axis:"z"}}}

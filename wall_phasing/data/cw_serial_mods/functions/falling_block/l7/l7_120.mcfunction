@@ -1,0 +1,12 @@
+execute if score block bsc matches 4752 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:attached_melon_stem",Properties:{facing:"north"}}}
+execute if score block bsc matches 4753 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:attached_melon_stem",Properties:{facing:"south"}}}
+execute if score block bsc matches 4754 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:attached_melon_stem",Properties:{facing:"west"}}}
+execute if score block bsc matches 4755 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:attached_melon_stem",Properties:{facing:"east"}}}
+execute if score block bsc matches 4756 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"0"}}}
+execute if score block bsc matches 4757 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"1"}}}
+execute if score block bsc matches 4758 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"2"}}}
+execute if score block bsc matches 4759 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"3"}}}
+execute if score block bsc matches 4760 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"4"}}}
+execute if score block bsc matches 4761 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"5"}}}
+execute if score block bsc matches 4762 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"6"}}}
+execute if score block bsc matches 4763 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:pumpkin_stem",Properties:{age:"7"}}}

@@ -1,0 +1,4 @@
+execute if score block bsc matches 9020 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:fire_coral_fan",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 9021 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:fire_coral_fan",Properties:{waterlogged:"false"}}}
+execute if score block bsc matches 9022 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:horn_coral_fan",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 9023 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:horn_coral_fan",Properties:{waterlogged:"false"}}}

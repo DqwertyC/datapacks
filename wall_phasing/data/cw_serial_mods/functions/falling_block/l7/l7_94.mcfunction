@@ -1,0 +1,17 @@
+execute if score block bsc matches 3945 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:clay"}}
+execute if score block bsc matches 3946 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"0"}}}
+execute if score block bsc matches 3947 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"1"}}}
+execute if score block bsc matches 3948 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"2"}}}
+execute if score block bsc matches 3949 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"3"}}}
+execute if score block bsc matches 3950 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"4"}}}
+execute if score block bsc matches 3951 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"5"}}}
+execute if score block bsc matches 3952 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"6"}}}
+execute if score block bsc matches 3953 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"7"}}}
+execute if score block bsc matches 3954 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"8"}}}
+execute if score block bsc matches 3955 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"9"}}}
+execute if score block bsc matches 3956 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"10"}}}
+execute if score block bsc matches 3957 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"11"}}}
+execute if score block bsc matches 3958 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"12"}}}
+execute if score block bsc matches 3959 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"13"}}}
+execute if score block bsc matches 3960 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"14"}}}
+execute if score block bsc matches 3961 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sugar_cane",Properties:{age:"15"}}}

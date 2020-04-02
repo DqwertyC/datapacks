@@ -14,7 +14,7 @@
                   "condition": "minecraft:match_tool",
                   "predicate": 
                   {
-                    "nbt": "{tag:{BlazeTouch:1b}}"
+                    "nbt": "{BlazeTouch:1b}"
                   }
                 }
               ],

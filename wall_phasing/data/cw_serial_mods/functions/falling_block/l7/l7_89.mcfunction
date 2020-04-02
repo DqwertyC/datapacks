@@ -1,0 +1,4 @@
+execute if score block bsc matches 3879 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:acacia_pressure_plate",Properties:{powered:"true"}}}
+execute if score block bsc matches 3880 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:acacia_pressure_plate",Properties:{powered:"false"}}}
+execute if score block bsc matches 3881 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dark_oak_pressure_plate",Properties:{powered:"true"}}}
+execute if score block bsc matches 3882 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dark_oak_pressure_plate",Properties:{powered:"false"}}}

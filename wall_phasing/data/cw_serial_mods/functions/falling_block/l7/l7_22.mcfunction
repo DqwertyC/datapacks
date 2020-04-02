@@ -1,0 +1,6 @@
+execute if score block bsc matches 96 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_log",Properties:{axis:"x"}}}
+execute if score block bsc matches 97 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_log",Properties:{axis:"y"}}}
+execute if score block bsc matches 98 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_jungle_log",Properties:{axis:"z"}}}
+execute if score block bsc matches 99 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_acacia_log",Properties:{axis:"x"}}}
+execute if score block bsc matches 100 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_acacia_log",Properties:{axis:"y"}}}
+execute if score block bsc matches 101 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_acacia_log",Properties:{axis:"z"}}}

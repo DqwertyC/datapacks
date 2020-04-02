@@ -1,0 +1,4 @@
+execute if score block bsc matches 23 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:spruce_sapling",Properties:{stage:"0"}}}
+execute if score block bsc matches 24 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:spruce_sapling",Properties:{stage:"1"}}}
+execute if score block bsc matches 25 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:birch_sapling",Properties:{stage:"0"}}}
+execute if score block bsc matches 26 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:birch_sapling",Properties:{stage:"1"}}}

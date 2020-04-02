@@ -1,0 +1,17 @@
+execute if score block bsc matches 3928 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:snow_block"}}
+execute if score block bsc matches 3929 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"0"}}}
+execute if score block bsc matches 3930 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"1"}}}
+execute if score block bsc matches 3931 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"2"}}}
+execute if score block bsc matches 3932 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"3"}}}
+execute if score block bsc matches 3933 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"4"}}}
+execute if score block bsc matches 3934 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"5"}}}
+execute if score block bsc matches 3935 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"6"}}}
+execute if score block bsc matches 3936 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"7"}}}
+execute if score block bsc matches 3937 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"8"}}}
+execute if score block bsc matches 3938 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"9"}}}
+execute if score block bsc matches 3939 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"10"}}}
+execute if score block bsc matches 3940 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"11"}}}
+execute if score block bsc matches 3941 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"12"}}}
+execute if score block bsc matches 3942 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"13"}}}
+execute if score block bsc matches 3943 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"14"}}}
+execute if score block bsc matches 3944 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:cactus",Properties:{age:"15"}}}

@@ -1,0 +1,4 @@
+execute if score block bsc matches 9004 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_tube_coral_fan",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 9005 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_tube_coral_fan",Properties:{waterlogged:"false"}}}
+execute if score block bsc matches 9006 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_brain_coral_fan",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 9007 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_brain_coral_fan",Properties:{waterlogged:"false"}}}

@@ -1,0 +1,4 @@
+execute if score block bsc matches 3875 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:birch_pressure_plate",Properties:{powered:"true"}}}
+execute if score block bsc matches 3876 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:birch_pressure_plate",Properties:{powered:"false"}}}
+execute if score block bsc matches 3877 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:jungle_pressure_plate",Properties:{powered:"true"}}}
+execute if score block bsc matches 3878 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:jungle_pressure_plate",Properties:{powered:"false"}}}

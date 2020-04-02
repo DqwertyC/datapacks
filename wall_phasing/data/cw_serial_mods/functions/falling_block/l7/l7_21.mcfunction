@@ -1,0 +1,6 @@
+execute if score block bsc matches 90 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_spruce_log",Properties:{axis:"x"}}}
+execute if score block bsc matches 91 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_spruce_log",Properties:{axis:"y"}}}
+execute if score block bsc matches 92 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_spruce_log",Properties:{axis:"z"}}}
+execute if score block bsc matches 93 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_log",Properties:{axis:"x"}}}
+execute if score block bsc matches 94 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_log",Properties:{axis:"y"}}}
+execute if score block bsc matches 95 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:stripped_birch_log",Properties:{axis:"z"}}}

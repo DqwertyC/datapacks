@@ -1,0 +1,4 @@
+execute if score block bsc matches 8992 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_horn_coral",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 8993 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:dead_horn_coral",Properties:{waterlogged:"false"}}}
+execute if score block bsc matches 8994 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:tube_coral",Properties:{waterlogged:"true"}}}
+execute if score block bsc matches 8995 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:tube_coral",Properties:{waterlogged:"false"}}}

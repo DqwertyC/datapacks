@@ -1,0 +1,11 @@
+execute if score block bsc matches 6192 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"true",facing:"down"}}}
+execute if score block bsc matches 6193 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"true",facing:"north"}}}
+execute if score block bsc matches 6194 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"true",facing:"south"}}}
+execute if score block bsc matches 6195 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"true",facing:"west"}}}
+execute if score block bsc matches 6196 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"true",facing:"east"}}}
+execute if score block bsc matches 6197 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"false",facing:"down"}}}
+execute if score block bsc matches 6198 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"false",facing:"north"}}}
+execute if score block bsc matches 6199 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"false",facing:"south"}}}
+execute if score block bsc matches 6200 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"false",facing:"west"}}}
+execute if score block bsc matches 6201 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:hopper",Properties:{enabled:"false",facing:"east"}}}
+execute if score block bsc matches 6202 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:quartz_block"}}

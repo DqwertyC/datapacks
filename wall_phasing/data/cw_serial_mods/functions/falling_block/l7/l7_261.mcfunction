@@ -1,0 +1,8 @@
+execute if score block bsc matches 8846 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:magenta_glazed_terracotta",Properties:{facing:"north"}}}
+execute if score block bsc matches 8847 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:magenta_glazed_terracotta",Properties:{facing:"south"}}}
+execute if score block bsc matches 8848 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:magenta_glazed_terracotta",Properties:{facing:"west"}}}
+execute if score block bsc matches 8849 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:magenta_glazed_terracotta",Properties:{facing:"east"}}}
+execute if score block bsc matches 8850 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:light_blue_glazed_terracotta",Properties:{facing:"north"}}}
+execute if score block bsc matches 8851 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:light_blue_glazed_terracotta",Properties:{facing:"south"}}}
+execute if score block bsc matches 8852 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:light_blue_glazed_terracotta",Properties:{facing:"west"}}}
+execute if score block bsc matches 8853 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:light_blue_glazed_terracotta",Properties:{facing:"east"}}}

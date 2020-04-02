@@ -1,0 +1,6 @@
+execute if score block bsc matches 4000 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:nether_portal",Properties:{axis:"x"}}}
+execute if score block bsc matches 4001 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:nether_portal",Properties:{axis:"z"}}}
+execute if score block bsc matches 4002 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:carved_pumpkin",Properties:{facing:"north"}}}
+execute if score block bsc matches 4003 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:carved_pumpkin",Properties:{facing:"south"}}}
+execute if score block bsc matches 4004 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:carved_pumpkin",Properties:{facing:"west"}}}
+execute if score block bsc matches 4005 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:carved_pumpkin",Properties:{facing:"east"}}}

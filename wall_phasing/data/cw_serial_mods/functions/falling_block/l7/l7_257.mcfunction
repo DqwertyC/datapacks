@@ -1,0 +1,12 @@
+execute if score block bsc matches 8802 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"north"}}}
+execute if score block bsc matches 8803 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"east"}}}
+execute if score block bsc matches 8804 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"south"}}}
+execute if score block bsc matches 8805 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"west"}}}
+execute if score block bsc matches 8806 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"up"}}}
+execute if score block bsc matches 8807 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:purple_shulker_box",Properties:{facing:"down"}}}
+execute if score block bsc matches 8808 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"north"}}}
+execute if score block bsc matches 8809 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"east"}}}
+execute if score block bsc matches 8810 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"south"}}}
+execute if score block bsc matches 8811 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"west"}}}
+execute if score block bsc matches 8812 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"up"}}}
+execute if score block bsc matches 8813 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:blue_shulker_box",Properties:{facing:"down"}}}

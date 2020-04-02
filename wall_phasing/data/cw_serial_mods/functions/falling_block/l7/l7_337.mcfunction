@@ -1,0 +1,8 @@
+execute if score block bsc matches 11264 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sweet_berry_bush",Properties:{age:"0"}}}
+execute if score block bsc matches 11265 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sweet_berry_bush",Properties:{age:"1"}}}
+execute if score block bsc matches 11266 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sweet_berry_bush",Properties:{age:"2"}}}
+execute if score block bsc matches 11267 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:sweet_berry_bush",Properties:{age:"3"}}}
+execute if score block bsc matches 11268 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:structure_block",Properties:{mode:"save"}}}
+execute if score block bsc matches 11269 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:structure_block",Properties:{mode:"load"}}}
+execute if score block bsc matches 11270 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:structure_block",Properties:{mode:"corner"}}}
+execute if score block bsc matches 11271 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:structure_block",Properties:{mode:"data"}}}

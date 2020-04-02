@@ -1,0 +1,4 @@
+execute if score block bsc matches 3883 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_ore",Properties:{lit:"true"}}}
+execute if score block bsc matches 3884 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_ore",Properties:{lit:"false"}}}
+execute if score block bsc matches 3885 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_torch",Properties:{lit:"true"}}}
+execute if score block bsc matches 3886 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:redstone_torch",Properties:{lit:"false"}}}

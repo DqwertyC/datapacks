@@ -1,0 +1,16 @@
+execute if score block bsc matches 3355 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"0"}}}
+execute if score block bsc matches 3356 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"1"}}}
+execute if score block bsc matches 3357 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"2"}}}
+execute if score block bsc matches 3358 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"3"}}}
+execute if score block bsc matches 3359 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"4"}}}
+execute if score block bsc matches 3360 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"5"}}}
+execute if score block bsc matches 3361 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"6"}}}
+execute if score block bsc matches 3362 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:wheat",Properties:{age:"7"}}}
+execute if score block bsc matches 3363 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"0"}}}
+execute if score block bsc matches 3364 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"1"}}}
+execute if score block bsc matches 3365 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"2"}}}
+execute if score block bsc matches 3366 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"3"}}}
+execute if score block bsc matches 3367 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"4"}}}
+execute if score block bsc matches 3368 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"5"}}}
+execute if score block bsc matches 3369 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"6"}}}
+execute if score block bsc matches 3370 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:farmland",Properties:{moisture:"7"}}}

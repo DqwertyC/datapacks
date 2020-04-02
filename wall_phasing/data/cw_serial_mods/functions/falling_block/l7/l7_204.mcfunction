@@ -1,0 +1,4 @@
+execute if score block bsc matches 7357 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:tall_grass",Properties:{half:"upper"}}}
+execute if score block bsc matches 7358 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:tall_grass",Properties:{half:"lower"}}}
+execute if score block bsc matches 7359 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:large_fern",Properties:{half:"upper"}}}
+execute if score block bsc matches 7360 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:large_fern",Properties:{half:"lower"}}}

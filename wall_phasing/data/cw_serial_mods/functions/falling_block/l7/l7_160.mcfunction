@@ -1,0 +1,8 @@
+execute if score block bsc matches 6074 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:anvil",Properties:{facing:"north"}}}
+execute if score block bsc matches 6075 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:anvil",Properties:{facing:"south"}}}
+execute if score block bsc matches 6076 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:anvil",Properties:{facing:"west"}}}
+execute if score block bsc matches 6077 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:anvil",Properties:{facing:"east"}}}
+execute if score block bsc matches 6078 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:chipped_anvil",Properties:{facing:"north"}}}
+execute if score block bsc matches 6079 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:chipped_anvil",Properties:{facing:"south"}}}
+execute if score block bsc matches 6080 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:chipped_anvil",Properties:{facing:"west"}}}
+execute if score block bsc matches 6081 run summon minecraft:falling_block ~ ~ ~ {Time:2,NoGravity:1b,Tags:["new_block","phased_block"],BlockState:{Name:"minecraft:chipped_anvil",Properties:{facing:"east"}}}
