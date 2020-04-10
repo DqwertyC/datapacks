@@ -24,18 +24,9 @@ Uses the custom_enchanting and uuid_utils datapacks above to create a trident th
 
 **wall_phasing**  
 *min version:15.2*  
-A datapack that adds Potions of Intangibility (aka Glowing II). Players with Intangibility can sneak to walk through walls. Throw a blaze powder, a chorus plant, and awkward potions in a cauldron, place glowstone over the top, and shoot it with a spectral arrow to craft. Also works with redstone and or gunpowder to make extended potions and splash potions. Having Invisibilty with Glowing II will supress the glowing effect but still allow sneaking through walls.
+A datapack that adds Potions of Intangibility (aka Invisibility II). Players with Intangibility can sneak to walk through walls. Brewed by adding Chorus Fruit to an Invisibility potion. You'll have to place the Chorus Fruit on the ground for the brewing stand to pick it up, but then it works just like normal brewing.
 
 Requires Cloud Wolf's Block Serializer: https://www.youtube.com/watch?v=_W_ojAgI9oY
-
-
-**blazes_touch_base**  
-*min version: 20w11a*  
-A simple loot-table based autosmelt datapack. Part of a tutorial on integrating datapacks with the custom_enchanting datapack.  
-
-**blazes_touch_final**  
-*min version: 20w11a*  
-Uses the custom_enchanting datapack above to create pickaxes that automaticalls smelt stone and ores. Part of a tutorial on integrating datapacks with the custom_enchanting datapack.
 
 # Feedback
 Please notify me if you find any bugs or errors, or if you have usability suggestions.
