@@ -14,8 +14,8 @@ This is the datapack metadata. You should edit it to describe your enchantment.
 ### ./data/ENCHANT_NAME
 This folder is where you'll put all of the functionality of your enchantment. You'll want to rename the folder to something that describes your enchantment.
 
-### ./data/ENCHANT_NAME/on_tick.mcfunction
-This function that will run every tick. It has some sample target selectors to get you started.
+### ./data/ENCHANT_NAME/functions/on_tick.mcfunction
+This is just a placeholder function to check for players wearing/holding the enchanted item. It has sample target selectors for checking each armor slot, as well as mainhand/offhand detection. Just delete the lines that don't make sense for your enchantment, and update ENCHANTMENT_NAME to match your enchantment name. This is where you should put your commands to make whatever it is your enchantment does work.
 
 ### ./data/ce_ENCHANT_NAME
 This folder contains the functionality that links this datapack to the Custom Enchanting datapack. Rename it to describe your enchantment, but leave the "ce_" at the front.
@@ -70,9 +70,6 @@ This function drains the experience from the nearest player until it has enough 
 
 ### ./data/ce_ENCHANT_NAME/functions/enchant_item.mcfunction
 This function "enchants" the item. There are **five** instances of ENCHANTMENT_NAME that need replaced.
-
-### ./data/ENCHANT_NAME/functions/on_tick.mcfunction
-This is just a placeholder function to check for players wearing/holding the enchanted item. It has sample target selectors for checking each armor slot, as well as mainhand/offhand detection. Just delete the lines that don't make sense for your enchantment, and update ENCHANTMENT_NAME to match your enchantment name. This is where you should put your commands to make whatever it is your enchantment does work.
 
 ### ./data/minecraft/tags/functions/tick.json
 This file contains a list of functions to run every tick. This is basically the same as having a command in a repeating command block. Just **two** instances of ENCHANTMENT_NAME that need to be replaced.
